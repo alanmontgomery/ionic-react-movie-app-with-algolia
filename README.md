@@ -10,7 +10,7 @@ https://movies-algolia.vercel.app
 ![Ionic React Item List](https://repository-images.githubusercontent.com/358203630/3953e780-9ddf-11eb-9c0b-da2dde02dbfb)
 
 ### Included in this Ionic React Template/UI
-* Mobile app built with Ionic Framework
+* Mobile app built with Ionic Framework and React
 * Custom PWA install button prompt through service worker
 * Fully enabled PWA, responsive to all devices (both Android and IOS)
 * Custom Algolia widgets built in React
