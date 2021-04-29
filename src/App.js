@@ -21,6 +21,7 @@ import '@ionic/react/css/display.css';
 /* Theme variables */
 import './theme/variables.css';
 import Movies from './pages/Movies';
+import Movie from './pages/Movie';
 
 const App = () => (
   <IonApp>
@@ -31,7 +32,7 @@ const App = () => (
         </Route>
 
         <Route exact path="/movie/:id">
-          <Movies />
+          <Movie />
         </Route>
 
         <Route exact path="/">
