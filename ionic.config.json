@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-movie-app-with-algolia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
