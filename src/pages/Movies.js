@@ -83,7 +83,7 @@ const Movies = props => {
 					</IonToolbar>
 				</IonHeader>
 
-				<IonContent fullscreen className={ styles.content }>						
+				<IonContent fullscreen>						
 					<CustomInfiniteHits />
 				</IonContent>
 			</InstantSearch>

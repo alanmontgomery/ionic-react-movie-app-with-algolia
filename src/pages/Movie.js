@@ -31,11 +31,11 @@ const Movie = () => {
 	return (
 		<IonPage className={ styles.page }>
 			<IonHeader>
-				<img src={ movie.cover_image } alt="movie cover" className={ styles.movieCover } />
+				<img src={ movie.cover_image } alt="movie cover" />
 				<IonBackButton color="light" className={ styles.backButton } text="&nbsp;&nbsp;Back to search" icon={ arrowBack } />
 			</IonHeader>
 
-			<IonContent fullscreen className={ styles.content }>
+			<IonContent fullscreen>
 				<IonGrid>
 					<IonRow>
 						<IonCol size="5">
