@@ -1,0 +1,133 @@
+.page {
+
+    ion-header {
+
+        background-color: #373b5e;
+    }
+
+    ion-toolbar {
+
+        --border-style: none;
+        --background: #373b5e;
+        --color: white;
+        --min-height: 8rem;
+        --stripe: #373b5e;
+        --bg: #3e4368;
+        --background: transparent;
+        background: linear-gradient(135deg, var(--bg) 25%, transparent 25%) -50px 0,
+        linear-gradient(225deg, var(--bg) 25%, transparent 25%) -50px 0,
+        linear-gradient(315deg, var(--bg) 25%, transparent 25%),
+        linear-gradient(45deg, var(--bg) 25%, transparent 25%);
+        background-size: 100px 100px;
+        background-color: var(--stripe);
+
+        ion-button {
+
+            font-size: 1.2rem;
+            font-weight: 800;
+        }
+
+        .searchContainer {
+
+            display: flex;
+            flex-direction: column;
+            color: white;
+            align-content: center;
+            align-items: center;
+
+            ion-card-title,
+            ion-card-subtitle {
+
+                padding: 0;
+                margin: 0;
+            }
+
+            ion-card-title {
+
+                font-size: 1.5rem;
+                color: white;
+            }
+
+            ion-card-subtitle {
+
+                color: rgb(189, 189, 189);
+            }
+        }
+    }
+
+    ion-searchbar {
+
+        --border-radius: 10px;
+        --background: white;
+        --color: black;
+        padding: 0.5rem !important;
+        margin: 0 !important;
+        --background: #2a2d44;
+        --color: white;
+        --icon-color: white;
+        --clear-button-color: white;
+    }
+
+    ion-searchbar {
+
+        input{
+
+            font-size: 1rem !important;
+        }
+    }
+
+    ion-list {
+
+        background-color: #e7edfb;
+    }
+}
+
+.movie {
+
+    .movieInfo {
+
+        text-align: center;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-end;
+
+        img {
+
+            height: 75vmin;
+        }
+
+        h2 {
+
+            position: absolute;
+            z-index: 10;
+            background-color: red;
+            width: 95%;
+            background-color: rgba(44, 53, 105, 0.8);
+            color: white;
+            font-size: 4vmin;
+            padding: 1rem;
+            min-height: 4.5rem;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+            max-height: 4.5rem;
+            margin-bottom: 0;
+            text-overflow: ellipsis;
+        }
+    }
+}
+
+ion-button {
+
+    --background: #5a55ca;
+    --background-focused: #6f6bbb;
+    --background-activated: #6f6bbb;
+    --padding-top: 1rem;
+    --padding-bottom: 1rem;
+    --padding-start: 0.75rem;
+    --padding-end: 0.75rem;
+    margin-top: -0.2rem;
+}

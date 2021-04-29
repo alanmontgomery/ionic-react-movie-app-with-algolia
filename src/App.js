@@ -30,6 +30,10 @@ const App = () => (
           <Movies />
         </Route>
 
+        <Route exact path="/movie/:id">
+          <Movies />
+        </Route>
+
         <Route exact path="/">
           <Redirect to="/home" />
         </Route>

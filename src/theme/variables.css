@@ -86,25 +86,18 @@ http://ionicframework.com/docs/theming/ */
   --ion-color-light-tint: #f5f6f9;
 }
 
-input.searchbar-input {
+.non-link {
 
-  padding-top: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
+  text-decoration: none;
 }
 
-ion-searchbar ion-icon {
+.hidden {
 
-  margin-top: 0.4rem;
+  display: none;
 }
 
-.ais-SearchBox {
-  padding: 1rem;
-  border-radius: 155px;
-}
-
-.ais-Pagination {
-  max-width: 1rem !important;
-  margin: 0;
-  padding: 0;
-  overflow: none;
+.add-button {
+  
+  margin: 0.5rem;
+  margin-bottom: 1rem;
 }
