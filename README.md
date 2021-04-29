@@ -7,7 +7,7 @@ Category 2 using the Algolia Search API and React Components
 DEMO (Please view this in mobile view if on desktop, or visit the link on your mobile device as there is full PWA experience included - see below)
 https://movies-algolia.vercel.app
 
-![Ionic React Algolia Search Coding contest submission](https://repository-images.githubusercontent.com/362750296/88287380-a8ed-11eb-9015-0da48f381961");)
+![Ionic React Algolia Search Coding contest submission](https://repository-images.githubusercontent.com/362750296/88287380-a8ed-11eb-9015-0da48f381961)
 
 ### Included in this Ionic React Template/UI
 * Mobile app built with Ionic Framework and React
