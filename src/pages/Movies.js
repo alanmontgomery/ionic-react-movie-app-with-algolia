@@ -76,7 +76,7 @@ const Movies = () => {
 							<IonCardSubtitle>with algolia search</IonCardSubtitle>
 							<CustomSearchbox />
 
-							<IonButton id="buttInstall" color="success" fill="solid" size="small" className="add-button" onClick={ () => addToHomeScreen() }>
+							<IonButton id="buttInstall" color="success" fill="solid" size="small" className="hidden add-button" onClick={ () => addToHomeScreen() }>
 								<IonIcon icon={ addOutline } />&nbsp;&nbsp;Install App
 							</IonButton>
 						</div>
