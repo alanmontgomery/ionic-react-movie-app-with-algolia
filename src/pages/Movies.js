@@ -15,8 +15,6 @@ const searchClient = algoliasearch('QZKBD6VPU7', 'db21b77f5f3bf4d4cbde385b7f33c6
 
 const Movies = props => {
 
-	console.log(props);
-
 	//	PWA functionality for a custom add to homescreen
 	//	This allows us to display a custom button based on service worker
 	useEffect(() => {
@@ -70,7 +68,7 @@ const Movies = props => {
 	return (
 		<IonPage className={ styles.page }>
 
-			<InstantSearch searchClient={searchClient} indexName="dev_movies">
+			<InstantSearch searchClient={ searchClient } indexName="dev_movies">
 				<IonHeader>
 					<IonToolbar>
 						<div className={ styles.searchContainer }>							
