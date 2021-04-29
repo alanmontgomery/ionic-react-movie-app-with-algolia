@@ -28,6 +28,4 @@ Please run in mobile view, so inspect and enable toggle the "device toolbar" but
 ```
 
 Alternatively, you can add the iOS, Android platform through capacitor and run natively - or view on the demo link above for the full PWA experience.
-
-# Are you on Twitter? Lets connect [@93alan](https://twitter.com/93alan)
-# Have you checked out Ionic React Hub yet? [Ionic React Hub](https://ionicreacthub.com)
+[@93alan](https://twitter.com/93alan)
