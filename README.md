@@ -4,6 +4,9 @@ Submission for the Algolia Search coding contest!
 Category:
 Category 2 using the Algolia Search API and React Components
 
+DEMO (Please view this in mobile view if on desktop, or visit the link on your mobile device as there is full PWA experience included - see below)
+https://movies-algolia.vercel.app
+
 ![Ionic React Item List](https://repository-images.githubusercontent.com/358203630/3953e780-9ddf-11eb-9c0b-da2dde02dbfb)
 
 ### Included in this Ionic React Template/UI
