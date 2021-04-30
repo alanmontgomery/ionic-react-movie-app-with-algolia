@@ -9,7 +9,7 @@ https://movies-algolia.vercel.app
 
 ![Ionic React Algolia Search Coding contest submission](https://repository-images.githubusercontent.com/362750296/88287380-a8ed-11eb-9015-0da48f381961)
 
-### Included in this Ionic React Template/UI
+### Features
 * Mobile app built with Ionic Framework and React
 * Custom PWA install button prompt through service worker
 * Fully enabled PWA, responsive to all devices (both Android and IOS)
