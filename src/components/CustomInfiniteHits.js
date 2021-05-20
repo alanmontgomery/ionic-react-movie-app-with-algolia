@@ -21,7 +21,7 @@ const CustomInfiniteHits = ({ hits, hasMore, refineNext }) => {
 
 						{ hits.length < 1 &&
 							<IonCol size="12" className="ion-text-center ion-padding-top ion-margin-top">
-								<IonCardTitle>No results found.</IonCardTitle>
+								<IonCardTitle>No results found</IonCardTitle>
 								<IonCardSubtitle>Try something else</IonCardSubtitle>
 							</IonCol>
 						}
