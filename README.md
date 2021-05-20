@@ -1,8 +1,7 @@
 # ionic-react-movie-app-with-algolia
 Submission for the Algolia Search coding contest!
 
-Category:
-Category 2 using the Algolia Search API and React Components
+Using the Algolia Search API and React Components
 
 DEMO (Please view this in mobile view if on desktop, or visit the link on your mobile device as there is full PWA experience included - see below)
 https://movies-algolia.vercel.app
@@ -28,4 +27,6 @@ Please run in mobile view, so inspect and enable toggle the "device toolbar" but
 ```
 
 Alternatively, you can add the iOS, Android platform through capacitor and run natively - or view on the demo link above for the full PWA experience.
-[@93alan](https://twitter.com/93alan)
+
+# Are you on Twitter? Lets connect [@93alan](https://twitter.com/93alan)
+# Have you checked out Ionic React Hub yet? [Ionic React Hub](https://ionicreacthub.com)
